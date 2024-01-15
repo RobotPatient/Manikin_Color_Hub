@@ -1,0 +1,2 @@
+add_library(NeoPixelDMA NeoPixelDMA.cpp)
+target_include_directories(NeoPixelDMA PUBLIC NeoPixelDMA_lib)

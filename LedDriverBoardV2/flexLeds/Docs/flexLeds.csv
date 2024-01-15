@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D11,D19,D18,D14,D16,D13,D17,D15,D20,D12";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";10;"GREEN";;;
+2;"R1,R4,R2,R3,R8,R7,R5,R9,R6";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";9;"R";;;
+3;"LED8,LED7,LED5,LED6";"150141M173100";4;"150141M173100";;;
+4;"D30,D24,D21,D28,D22,D26,D27,D25,D29,D23";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";10;"BLUE";;;
+5;"D6,D4,D5,D3,D9,D7,D1,D8,D10,D2";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";10;"RED";;;
+6;"J1";"Conn_1x20_FFC";1;"Conn_01x20_Pin";;;
+7;"SW2,SW1";"TL3342F260QG";2;"SW_Push_Dual";;;
+8;"LED3,LED4,LED2,LED1";"19337CRSBHGHCA012T";4;"19-337C_RSBHGHC-A01_2T";;;
+9;"SW3,SW4";"TS174805YE160SMTTR";2;"SW_Push_Dual";;;

@@ -1,0 +1,4 @@
+TODO: 
+	- Check if files are up-to-date
+	- Add technical design pdf
+	- Add product report pdf

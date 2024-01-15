@@ -1,0 +1,2 @@
+add_library(NeoPixel Adafruit_NeoPixel.cpp)
+target_include_directories(NeoPixel PUBLIC NeoPixel_lib)
