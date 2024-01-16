@@ -1,4 +1,5 @@
-TODO: 
-	- Check if files are up-to-date
-	- Add technical design pdf
-	- Add product report pdf
+TODO 16-1-2024: 
+	- Fix short on flexPCB.
+	- Fix clock issue on main PCB.
+	- Finish code so PCBs can be tested.
+	- Inplement solution in baby. (might require the creation of a new flexible PCB).
