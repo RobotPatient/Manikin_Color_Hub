@@ -3,3 +3,8 @@ TODO 16-1-2024:
 	- Fix clock issue on main PCB.
 	- Finish code so PCBs can be tested.
 	- Inplement solution in baby. (might require the creation of a new flexible PCB).
+	
+To finish the code you will be missing som files:
+	- Add this repo https://github.com/evanic14/SAMD21_BARE_CMAKE to this file path LedDriverBoardV2/Code/SAMD21_BARE_CMAKE
+	- Add this repo https://github.com/janelia-arduino/AT42QT to this file path PCBs/LedDriverBoardV3/Code/clio-platformio/.pio/libdeps/adafruit_feather_m0_express/AT42QT/
+	- Add this repo https://github.com/RobotPatient/FreeRTOS to this file path PCBs/LedDriverBoardV3/Code/clio-platformio/.pio/libdeps/adafruit_feather_m0_express/FreeRTOS_SAMD21/
