@@ -1,2 +1,4 @@
 
 LedDriverBoardV2/Code/SAMD21_BARE_CMAKE
+PCBs/LedDriverBoardV3/Code/clio-platformio/.pio/libdeps/adafruit_feather_m0_express/AT42QT/
+PCBs/LedDriverBoardV3/Code/clio-platformio/.pio/libdeps/adafruit_feather_m0_express/FreeRTOS_SAMD21/
